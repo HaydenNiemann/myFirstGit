@@ -1,4 +1,3 @@
-• write a table of weeks for the course, and the course content.
 # My First Git Project #
 
 ## This is my first project using Git and Github #
@@ -14,8 +13,6 @@
   3. In the terminal it should output Hello World
 
 ## Course Content
-## Course Content
-
 | Week | Content                                                    |
 |------|------------------------------------------------------------|
 | 1    | Introduction to JavaScript and Node.js                     |
