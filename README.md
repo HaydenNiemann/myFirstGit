@@ -3,7 +3,7 @@
 
 # This is my first project using Git and Github #
 
-# To install you will need the up to date Git on windows #
+# To install you will need up to date Git on windows #
   1. Clone the repository: `git clone https://github.com/HaydenNiemann/myFirstGit.git`
   2. Navigate to project directory
   3. Install dependencies 'npm install'
