@@ -13,4 +13,11 @@
   2. type 'node index.js' into the terminal
   3. In the terminal it should output Hello World
 
-
+## Course Content
+| Week | Content                          |
+|------|----------------------------------|
+| 1    | Introduction to Git and GitHub   |
+| 2    | Setting Up Git and Basic Commands|
+| 3    | Branching and Merging            |
+| 4    | Handling Merge Conflicts         |
+| 5    | Advanced Git Techniques          |
