@@ -16,8 +16,8 @@
 ## Course Content
 ## Course Content
 
-| Week | Content                                                                                       |
-|------|-----------------------------------------------------------------------------------------------|
+| Week | Content                                                    |
+|------|------------------------------------------------------------|
 | 1    | Introduction to JavaScript and Node.js                     |
 | 2    | Code Version Control with Git and GitHub                   |
 | 3    | Node.js as a Server                                        |  
