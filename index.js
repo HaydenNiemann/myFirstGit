@@ -1,4 +1,4 @@
-console.log('Hello World');
+console.log('Hello world');
 
 
 function addNumbers(a, b) {
@@ -6,3 +6,6 @@ function addNumbers(a, b) {
 }
 
 console.log(addNumbers(5, 10)); 
+
+
+
